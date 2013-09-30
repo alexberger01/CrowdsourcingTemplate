@@ -1,0 +1,50 @@
+/*
+   Design for message at top of page asking user to answer the following question
+*/
+
+h1
+{
+		font-size: 25px;
+		text-align: center;
+}
+
+/*
+   Design for the text of the displayed question
+*/
+
+p.question
+{
+ 		font-size: 20px;
+ 		text-align: center;
+}
+
+/*
+   Design for the text of the user's response
+*/
+
+p.answer
+{
+ 		font-size: 20px;
+		text-align: center;
+}
+
+/*
+   Design for the text of the displayed error message
+*/
+
+p.error
+{
+    color: darkred;
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center;
+}
+
+/*
+   Horizontally centers Next Question button
+*/
+
+div
+{
+	 text-align:center;
+}

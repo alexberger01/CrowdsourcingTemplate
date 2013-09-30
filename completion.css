@@ -1,0 +1,36 @@
+/*
+   Design for message at top of page thanking user for completing the survey
+*/
+
+h1
+{
+		font-size: 25px;
+		text-align: center;
+}
+
+/*
+   Horizontally centers the Close Survey hyperlink
+*/
+
+div
+{
+ 	 	margin: 0 auto;
+		width: 120px;
+}
+
+/*
+   Design for the Close Survey hyperlink
+*/
+
+a
+{
+ 		background-color: #98bf21;
+		border: 2px solid black;
+ 		color: #FFFFFF;
+		display: block;
+		font-weight: bold;
+		padding: 4px;
+		text-align: center;
+		text-decoration: none;
+		width: 120px;
+}

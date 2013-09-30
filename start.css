@@ -1,0 +1,36 @@
+/*
+   Design for start message at top of page
+*/
+
+h1
+{
+		font-size: 25px;
+		text-align: center;
+}
+
+/*
+   Horizontally centers hyperlink to begin survey
+*/
+
+div
+{
+ 	 	margin: 0 auto;
+		width: 120px;
+}
+
+/*
+   Design for start survey hyperlink
+*/
+
+a
+{
+ 		background-color: #98bf21;
+		border: 2px solid black;
+ 		color: #FFFFFF;
+		display: block;
+		font-weight: bold;
+		padding: 4px;
+		text-align: center;
+		text-decoration: none;
+		width: 120px;
+}
