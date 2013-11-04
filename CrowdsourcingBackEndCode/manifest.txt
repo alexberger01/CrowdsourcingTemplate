@@ -1,0 +1,2 @@
+Main-Class: WekaTest
+Class-Path: weka-3-6-10/weka.jar
