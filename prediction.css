@@ -1,0 +1,77 @@
+/*
+   Design for message at top of page saying that the computer will make a prediction
+*/
+
+h1
+{
+		font-size: 25px;
+		text-align: center;
+}
+
+/*
+   Design for message asking user to add a question to the survey
+*/
+
+h2
+{
+ 		font-size: 20px;
+		text-align: center;
+}
+
+/*
+   Design for the text of the displayed automated prediction, error message, and thank you message
+*/
+
+p.message
+{
+    color: darkred;
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center;
+}
+
+/*
+   Horizontally centers the Continue hyperlink
+*/
+
+div.hyperlink
+{
+   margin: 0 auto;
+   width: 120px;
+}
+
+/*
+   Horizontally centers the Add Question button
+*/
+
+div.button
+{
+ 	 	text-align: center;
+}
+
+/*
+   Design for the Continue hyperlink
+*/
+
+a
+{
+ 		background-color: #98bf21;
+		border: 2px solid black;
+ 		color: #FFFFFF;
+		display: block;
+		font-weight: bold;
+		padding: 4px;
+		text-align: center;
+		text-decoration: none;
+		width: 120px;
+}
+
+/*
+   Design for the text of the user's added question
+*/
+
+p.response
+{
+ 		font-size: 20px;
+		text-align: center;
+}

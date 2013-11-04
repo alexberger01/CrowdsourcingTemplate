@@ -1,0 +1,69 @@
+/*
+   Design for message at top of page asking user to answer the following question
+*/
+
+h1
+{
+		font-size: 25px;
+		text-align: center;
+}
+
+/*
+   Design for message asking user to add a question to the survey
+*/
+
+h2
+{
+ 		font-size: 20px;
+		text-align: center;
+}
+
+/*
+   Design for the text of the displayed question
+*/
+
+p.question
+{
+ 		font-size: 20px;
+ 		text-align: center;
+}
+
+/*
+   Design for the text of the user's response
+*/
+
+p.response
+{
+ 		font-size: 20px;
+		text-align: center;
+}
+
+/*
+   Design for the text of the displayed error message or thank you message
+*/
+
+p.message
+{
+    color: darkred;
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center;
+}
+
+/*
+   Horizontally centers the Next, Skip, and Add Question buttons
+*/
+
+div
+{
+	 text-align: center;
+}
+
+/*
+   Horizontally centers the input text entered by the user in the textbox
+*/
+
+input
+{
+   text-align: center;
+}

@@ -1,0 +1,28 @@
+/*
+   Design for the message at top of page
+*/
+
+h1
+{
+		font-size: 25px;
+		text-align: center;
+}
+
+/*
+   Design for all other messages
+*/
+
+p.message
+{
+ 		font-size: 20px;
+ 		text-align: center;
+}
+
+/*
+   Horizontally centers the Submit Question button
+*/
+
+div
+{
+	 text-align: center;
+}
